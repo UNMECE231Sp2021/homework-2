@@ -89,3 +89,4 @@ When grading your assigment, I will be using valgrind's leak-check feature to se
 | Additional testing in main.c | 15% |
 | Makefile | 20%|
 | Code runs without error | 15% |
+|Total | 100% |
